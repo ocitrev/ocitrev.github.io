@@ -1,4 +1,4 @@
-﻿body {
+body {
   font-family: 'DejaVu Sans Mono', 'Consolas', 'Courrier New', monospace;
   background-color: #1e1e1e;
   color: #c1c1c1;
@@ -56,14 +56,6 @@ a.external:after, a[href^="http:"]:after, a[href^="https:"]:after {
 
 .test {
   font-family: sans-serif;
-}
-
-.connection_active {
-  color: orange;
-}
-
-.server_down {
-  color: red;
 }
 
 .status {
